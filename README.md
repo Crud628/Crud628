@@ -8,4 +8,4 @@
 - 📫 邮箱:fk1109373967@163.com
 - ⚡ 可以一起交流学习
 - 个人微信公众号:滨奇科技
-<div align=center><img src="Q.jpg" width=256 height=256 /><img src="WX.jpg" width=256 height=256 /><img src="QQ.jpg" width=256 height=256 /></div>
+<div align=center><img src="WX.jpg" width=256 height=256 /></div>
