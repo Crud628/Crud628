@@ -10,3 +10,4 @@
 - 👟[码云](https://gitee.com/crud628/)
 - 个人微信公众号:滨奇科技
 <div align=center><img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /></div>
+[![Crud628's github stats](https://github-readme-stats.vercel.app/api?username=Crud628)](https://github.com/Crud628/github-readme-stats)
