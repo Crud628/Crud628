@@ -20,5 +20,5 @@
 | <a href="https://twitter.com/Crud628"><img algin="center" alt="Crud628" src="https://github-readme-stats.vercel.app/api?username=Crud628&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=0590ff" alt="Crud628's github stats"/></a> | <a href="https://twitter.com/Crud628"><img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<img align="" width="99.9%" src="https://activity-graph.herokuapp.com/graph?username=Crud628&theme=react-dark&color=0590ff&point=7e30a1&hide_border=true&line=0590ff&title_color=0590ff&icon_color=0590ff&text_color=0590ff&bg_color=9ca3af00&custom_title=Crud628的摆烂日常&area=true" />
+<img align="" width="99.9%" src="https://activity-graph.herokuapp.com/graph?username=Crud628&theme=react-dark&color=0590ff&point=7e30a1&hide_border=true&line=0590ff&title_color=0590ff&icon_color=0590ff&text_color=0590ff&bg_color=9ca3af00&custom_title=Crud628’s Srotten daily life&area=true" />
 
