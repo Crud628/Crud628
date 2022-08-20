@@ -1,4 +1,7 @@
 ### Hello World 👋
+
+<br/ >
+
 - 🔭 这是一个软工小伙的代码仓库
 - 🌱 随缘commit
 - 👯 会有机构的代码
@@ -10,6 +13,9 @@
 - 👟[码云](https://gitee.com/crud628/)
 - 个人微信公众号:滨奇科技
 
+<br/ >
 
-[![Crud628's github stats](https://github-readme-stats.vercel.app/api?username=Crud628 "![Crud628's github stats")](https://github.com/Crud628/github-readme-stats)
-<div align=center style=float:right><img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /></div>
+| ![Crud628's github stats](https://github-readme-stats.vercel.app/api?username=Crud628&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=0590ff"![Crud628's github stats") | <img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
