@@ -15,7 +15,7 @@
 
 <br/ >
 
-| ![Crud628's github stats](https://github-readme-stats.vercel.app/api?username=Crud628&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=0590ff"![Crud628's github stats") | <img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /> |
+| ![Crud628's github stats](https://github-readme-stats.vercel.app/api?username=Crud628&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=0590ff" ![Crud628's github stats") | <img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
